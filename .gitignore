@@ -1,0 +1,7 @@
+Network_CIFAR10/data
+Network_CIFAR10/models/ResNet.py
+Network_CIFAR10/report
+Network_CIFAR10/hyperparameter search.py
+Network_CIFAR10/training_optimized.py
+VGG_BatchNorm/data
+VGG_BatchNorm/reports
