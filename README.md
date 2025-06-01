@@ -1,1 +1,1 @@
-# deeplearning_pj2
+# Code for course Neural Network & Deep Learning project 2
